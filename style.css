@@ -1,0 +1,27 @@
+ul
+{
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+.collapse
+{
+  border: 1px solid red;
+  overflow: auto;
+}
+
+a
+{
+  display: inline-block;
+
+  color: #888;
+  text-decoration: none;
+
+  border: 1px solid #eee;
+  background: #eee;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px #eee;
+
+  padding: 10px;
+  margin-bottom: 20px;
+}
