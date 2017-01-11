@@ -1,0 +1,3 @@
+# Plugin collapse
+
+## Simple plugin
